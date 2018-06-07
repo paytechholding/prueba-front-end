@@ -6,9 +6,11 @@ Esa aplicación es un gestor de registros de clientes. Al hacer el login en la a
 Se utilizaron las tecnologías Vue.js y Firebase para estructurar la aplicación.
 
 Referencias:
-- Vue.js: https://vuejs.org/v2/api/
-- Firebase: https://firebase.google.com/docs/
-- Firebase Database: https://firebase.google.com/docs/reference/js/firebase.database.Reference
+- [Vue.js](https://vuejs.org/v2/api/)
+- [Firebase](https://firebase.google.com/docs/)
+- [Firebase Database](https://firebase.google.com/docs/reference/js/firebase.database.Reference)
+
+Version en Portugués: [README.pt-br.md](README.pt-br.md)
 
 ## Instrucciones
 
