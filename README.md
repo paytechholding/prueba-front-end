@@ -51,7 +51,7 @@ donde al pinchar, el usuario va ser redireccionado para la pantalla de registro.
  "rut": "12.123.123-2" ,
  "description": "El cliente trabaja con informática.",
  "addresses": [
-   {
+  {
     "name": "Dirección Principal",
     "street": "Av Del Valle",
     "number": 123,
