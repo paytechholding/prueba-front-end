@@ -53,7 +53,7 @@ onde ao clicar, o usuário será redirecionado para a tela de cadastro.
  "rut": "12.123.123-2",
  "description": "El cliente trabaja con informática.",
  "addresses": [
-   {
+  {
     "name": "Dirección Principal",
     "street": "Av Del Valle",
     "number": 123,
